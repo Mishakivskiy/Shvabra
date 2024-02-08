@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import Modal from 'react-modal';
 import { FaStar } from "react-icons/fa";
-import shop_1 from './image/shop-img.jpg';
+import shop_1 from './image/shop_img.JPEG';
 import shop_2 from './image/shop-img_2.jpg';
 import shop_3 from './image/shop-img_3.jpg';
-import shop_4 from './image/shop-img_4.jpg';
+// import shop_4 from './image/shop-img_4.jpg';
 import shop_5 from './image/shop-img_5.jpg';
 import shop_6 from './image/shop-img_6.jpg';
 import shop_7 from './image/shop-img_7.jpg';
