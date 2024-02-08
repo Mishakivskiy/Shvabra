@@ -103,7 +103,7 @@ function App() {
                 ЗВИЧАЙНА ЦІНА:
               </p>
               <p className='price__num'>
-                473 грн.
+                525 грн.
               </p>
             </div>
             <div>
@@ -158,9 +158,9 @@ function App() {
         <div>
           <img src={shop_2} alt='' />
         </div>
-        <div>
+        {/* <div>
           <img src={shop_4} alt='' />
-        </div>
+        </div> */}
         <div>
           <img src={shop_3} alt='' />
         </div>
@@ -281,7 +281,7 @@ function App() {
             </div>
           </div>
         </div>
-        <div>
+        {/* <div>
           <img src={shop_1} alt=""/>
         </div>
         <div>
@@ -311,7 +311,7 @@ function App() {
               </p>
             </li>
           </ul>
-        </div>
+        </div> */}
         <div className='btn-block'>
           <div className='price'>
             <div>
@@ -319,7 +319,7 @@ function App() {
                 ЗВИЧАЙНА ЦІНА:
               </p>
               <p className='price__num'>
-                473 грн.
+                525 грн.
               </p>
             </div>
             <div>
@@ -353,9 +353,6 @@ function App() {
               <div className='call1'>
                 Менеджер звʼяжеться з Вами для підтвердження замовлення
               </div>
-          </div>
-          <div className='itemAc'>
-            Залишилось товару по акції: 8 шт.
           </div>
         </div>
       </div>
