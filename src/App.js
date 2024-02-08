@@ -116,7 +116,7 @@ function App() {
             </div>
           </div>
           <div className='price__btn-block'>
-            <button className='price__btn' onClick={openModal}>ЗАМОВТИ ЗІ ЗНИЖКОЮ</button>
+            <button className='price__btn' onClick={openModal}>ЗАМОВИТИ ЗІ ЗНИЖКОЮ</button>
             <Modal
               isOpen={modalIsOpen}
               onRequestClose={closeModal}
